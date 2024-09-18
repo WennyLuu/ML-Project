@@ -1,1 +1,1 @@
-# This is a Machine learning projects repository.
+# This is a Machine Learning Projects repository.
